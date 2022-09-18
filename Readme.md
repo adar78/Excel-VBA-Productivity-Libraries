@@ -2,7 +2,7 @@
 
 ##Introduction 
 
-Excel VBA PL is a repo containing VBA files for Excel, aiming at enhancing your productivity while developing your Excel files by filling some gaps of Excel.
+Excel VBA PL FORK is a repo containing VBA files for Excel, aiming at enhancing your productivity while developing your Excel files by filling some gaps of Excel.
 
 It proposes:
 * A class to interact with Word
